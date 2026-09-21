@@ -1,6 +1,6 @@
 [submodule "registry/lib/components/video/barline"]
 	path = registry/lib/components/video/barline
-	url = https://gitee.com/m1ku666/bilibili-evolved-barline.git
+	url = https://github.com/M1ku666/bilibili-evolved-barline.git
 [submodule "registry/lib/components/video/music-replace"]
 	path = registry/lib/components/video/music-replace
-	url = https://gitee.com/m1ku666/bilibili-evolved-music-replace.git
+	url = https://github.com/M1ku666/bilibili-evolved-music-replace.git
